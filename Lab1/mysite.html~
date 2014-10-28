@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="wiss.css">
+
+	
+    <head>
+	<title>Waseem Abu Obeida</title>
+	
+	
+	
+	
+
+    </head>
+
+	
+    <body id = "boody" id="cent">
+	<h3>
+	<nav id ="ab" class="navbar navbar-default" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Brand</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li  class="active"><a href="google.com">google</a></li>
+        <li><a href="https://www.facebook.com/waseem.obeida">profile</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+      <form class="navbar-form navbar-left" role="search">
+        <div class="form-group">
+          <input type="text" class="form-control" placeholder="Search">
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+      </form>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+	<h1>waseem Abu Obeida<h1/>
+	<img  src="https://scontent-b-fra.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/p417x417/1235545_10201471418100676_118666994_n.jpg?oh=2ca4f03de6b45fb3963b2badcdbb947f&oe=54E70968"  width="300" height="300">
+
+	<h3>About me</h3>
+	<ol>
+		<li>Name:waseem</li>
+		<li>Nationality:Palestinien</li>
+		<li>age:16 years old</li>
+		<li>city:jerusalem</li>
+	</ol>
+	<br>
+<br>
+<br>
+
+	<h3>Hobbies</h3>
+	<ol>
+		<li>Dabbkah</li>
+		<li>soccer</li>
+		<li>movies</li>
+	<h3>Questions</h3>
+	<textarea></textarea>
+	<button type="button" class="btn btn-success">submit</button>
+
+    </body>
+
+
+</html>
