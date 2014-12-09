@@ -7,4 +7,5 @@ from models import Poll, Choice
 
 
 def index(request):
-	return HttpResponse("this is the index page")
+	return render(request,'polls/mysite.html',)
+	#{'my_poll_num':poll_id})
